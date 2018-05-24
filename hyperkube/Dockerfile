@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/hyperkube:v0.17.0
+FROM gcr.io/google_containers/hyperkube-amd64:v1.2.0
 MAINTAINER zxh@zhirui.com.cn
